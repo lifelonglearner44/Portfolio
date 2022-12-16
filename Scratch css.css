@@ -1,0 +1,39 @@
+body {background-color: lightblue;
+}
+
+.title {
+    color:black;
+    font-size: x-large;
+    font-family:"open sans", sans-serif;
+}
+body{
+    color:black;
+    font-size: large;
+    font-family:"open sans", sans-serif;
+}
+
+.tableauPlaceholder{
+width:auto;
+height:auto;
+}
+
+
+.contact{
+    color:darkblue;
+    font-size: small;
+    font-family: "Open sans" , sans-serif;
+    position: bottom;
+}
+
+
+.image{
+    width:auto;
+    height:auto;
+    padding:auto;
+}
+
+.vid{
+    width:auto;
+    height:auto;
+    padding:auto;
+}
